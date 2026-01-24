@@ -1,2 +1,4 @@
 yolo11x.pt
-yolo11n.pt
+__pycache__/
+
+.env
