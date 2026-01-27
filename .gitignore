@@ -2,3 +2,7 @@ yolo11x.pt
 __pycache__/
 
 .env
+
+unet_model.pth
+
+outpu
