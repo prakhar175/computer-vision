@@ -5,4 +5,8 @@ __pycache__/
 
 unet_model.pth
 
-outpu
+test
+val
+train
+runs
+yolo26n-seg.pt
