@@ -1,0 +1,13 @@
+train: Crack Detection/train/images
+val: Crack Detection/val/images
+test: Crack Detection/test/images
+
+nc: 4
+names: ['Car', 'Person', 'Traffic Light', 'objects']
+
+roboflow:
+  workspace: abc-nqvju
+  project: first-project-c6jsb
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/abc-nqvju/first-project-c6jsb/dataset/1
